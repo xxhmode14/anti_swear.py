@@ -1,6 +1,6 @@
 #Anti_swear.py
 
-** *note i am a beginer on python so don't expect much of this.***
+***note i am a beginer on python so don't expect much of this.***
 
 Hello there,
 well this is my first actual github repo and i don't know and why thay write this readme thing but ok
